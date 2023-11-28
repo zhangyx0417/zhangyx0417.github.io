@@ -3,20 +3,22 @@ layout: default
 ---
 
 ## About
-Hi! My name is Xuming Hu (胡旭明). I am a final-year Ph.D. student at the [School of Software](https://www.thss.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by Prof. [Philip S. Yu](https://www.cs.uic.edu/PSYu/) and also co-advised by Prof. [Lijie Wen](https://www.thss.tsinghua.edu.cn/faculty/wenlijie.htm). I am a Visiting Scholar at [CUHK MISC Lab](https://misc-lab.cse.cuhk.edu.hk/people/) since May 2022, under the supervision of Prof. [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home).
+Hi! My name is Yanxi Zhang (张雁熙). I am a first-year M.S. student in [Web Information Processing Group](http://wip.wict.pku.edu.cn/), [Wangxuan Institute of Computer Technology](https://www.wict.pku.edu.cn/) and [Center for Data Science](https://www.ds.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/). I am now advised by [Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/), devoting to NLP studies.
 
-My research interests lie in the fields of natural language processing and deep learning. In particular, I am interested in mining information from heterogeneous data sources and focusing on:
+My research interests lie in NLP, including:
 
-- Investigating the "hallucination" phenomenon in LLMs,
-- Exploring retrieval-augmented LLMs.,
-- Studying multimodal LLMs,
-- Delving into the "AI for Science" initiative.
+- Information Extraction (IE)
+- Large Language Models (LLMs)
 
-Contact: hxm19@mails.tsinghua.edu.cn
+Here are some questions I’m thinking about:
 
-[[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=dbBKbXoAAAAJ) [[ResearchGate]](https://www.researchgate.net/profile/Hu-Xuming?ev=hdr_xprf&_sg=cqatJ7AhrzJeV9CM-7xF6hVAhV-vpfPIb6_E2vExKHQUSVTc0L9ry819hm3_Qt1ccooD97fBdpAYyOHyqYqejy_o) [[Semantic Scholar]](https://www.semanticscholar.org/author/2109906988)
+- How to extract information from documents with the help of LLMs?
+- How to improve the long context understanding ability of LLMs?
 
-**Feel free to contact me if your research lies within these or related areas!**
+Contact: [zhangyx@stu.pku.edu.cn](mailto:zhangyx@stu.pku.edu.cn)
+
+**Please feel free to contact me if you want to talk about research or seek advice that I may be able to provide!**
+
 
 ## News
 
