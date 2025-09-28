@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Yanxi Zhang (张雁熙). My english name is Michael, which I have been using it for over ten years! I am a final-year M.S. student at [Wangxuan Institute for Computer Technology, Peking University](https://www.icst.pku.edu.cn/), advised by [Prof. Dongyan Zhao](https://www.wict.pku.edu.cn/zhaodongyan/en/). I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Dr. Chaochao Lu](https://causallu.com/). Before that, I received the B.Eng. degree from [School of Big Data and Software Engineering, Chongqing University](http://www.cse.cqu.edu.cn/) in 2023.
+😎 Hi! I'm Yanxi Zhang (张雁熙). My english name is Michael, which I have been using it for over ten years! 
 
-I am currently focusing on **causal reasoning in large models**, especially in enhancing and evaluating their causal reasoning capabilities. I am also interested in information extraction, e.g., understanding the relationships between events in documents.
+🌱 I am a final-year M.S. student at [Wangxuan Institute for Computer Technology, Peking University](https://www.icst.pku.edu.cn/), advised by [Prof. Dongyan Zhao](https://www.wict.pku.edu.cn/zhaodongyan/en/). I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Dr. Chaochao Lu](https://causallu.com/). Before that, I received the B.Eng. degree from [School of Big Data and Software Engineering, Chongqing University](http://www.cse.cqu.edu.cn/) in 2023.
+
+🍃 I am currently focusing on **causal reasoning in large models**, especially in enhancing and evaluating their causal reasoning capabilities. I am also interested in information extraction, e.g., understanding the relationships between events in documents.
+
+✉️ Feel free to contact me via email! You can download my [CV](https://drive.google.com/file/d/1smeUclYYTFT4OGDi5tAEzFDT5Hn70ZE8/view?usp=sharing) here.
 
 
 # 📝 Research Papers
@@ -37,9 +41,18 @@ I am currently focusing on **causal reasoning in large models**, especially in e
   EMNLP 2023 Findings, [[Paper](https://aclanthology.org/2023.findings-emnlp.408/)] [[Code](https://github.com/zhangyx0417/simple_to_complex)]
 
 
+# 📚 Academic Services
+- *Reviewer*, IJCAI 2025, NeurIPS 2025.
+
+
+# 📐 Teaching Experiences
+- *Teaching Assistant*, Semantic Computing and Knowledge Graphs, Peking University, Spring 2025.
+- *Teaching Assistant*, Computer Networks, Chongqing University, Spring 2022.
+
+
 # 📖 Educations
-- *2023.09 - 2026.06*, M.S. in Data Science, Peking University.
-- *2019.09 - 2023.06*, B.Eng. in Data Science and Big Data Technology, Chongqing University.
+- *2023.09 - 2026.06*, M.S. in Data Science, Peking University (PKU).
+- *2019.09 - 2023.06*, B.Eng. in Data Science and Big Data Technology, Chongqing University (CQU).
 
 
 # 🎖 Honors and Awards
