@@ -30,16 +30,17 @@ redirect_from:
 
 - HVCR: Causal Evaluation of Large Multimodal Models in Human-like Video Reasoning \
   **Yanxi Zhang**, Junjie Li, Dongyan Zhao\*, Chaochao Lu\* \
-  ICLR 2026 Submission
+  Preprint
 
 - AC-Reason: Synergizing LLMs and Theory for Human-like Causal Reasoning \
   **Yanxi Zhang**, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
-  arXiv 2025, [[Paper](https://arxiv.org/abs/2505.08750)] [[Code](https://github.com/zhangyx0417/ac_reason)] [[Data](https://huggingface.co/datasets/zhangyx2001/AC-Bench)]
+  Preprint [[Paper](https://arxiv.org/abs/2505.08750)] [[Code](https://github.com/zhangyx0417/ac_reason)] [[Data](https://huggingface.co/datasets/zhangyx2001/AC-Bench)]
 
 - From Simple to Complex: A Progressive Framework for Document-level Informative Argument Extraction \
   Quzhe Huang^, **Yanxi Zhang**^, Dongyan Zhao\* \
-  EMNLP 2023 Findings, [[Paper](https://aclanthology.org/2023.findings-emnlp.408/)] [[Code](https://github.com/zhangyx0417/simple_to_complex)]
+  EMNLP 2023 Findings [[Paper](https://aclanthology.org/2023.findings-emnlp.408/)] [[Code](https://github.com/zhangyx0417/simple_to_complex)]
 
+^ Equal Contribution \* Corresponding Author
 
 # 📚 Academic Services
 - *Reviewer*, IJCAI 2025, NeurIPS 2025.
