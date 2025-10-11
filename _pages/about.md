@@ -32,7 +32,7 @@ redirect_from:
   **Yanxi Zhang**, Junjie Li, Dongyan Zhao\*, Chaochao Lu\* \
   Preprint
 
-- AC-Reason: Synergizing LLMs and Theory for Human-like Causal Reasoning \
+- HCR-Reasoner: Synergizing LLMs and Theory for Human-like Causal Reasoning \
   **Yanxi Zhang**, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
   Preprint [[Paper](https://arxiv.org/abs/2505.08750)] [[Code](https://github.com/zhangyx0417/ac_reason)] [[Data](https://huggingface.co/datasets/zhangyx2001/AC-Bench)]
 
