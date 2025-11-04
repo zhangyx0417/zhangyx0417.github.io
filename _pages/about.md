@@ -28,11 +28,11 @@ redirect_from:
 
 # 📝 Research Papers
 
-- HVCR: Causal Evaluation of Large Multimodal Models in Human-like Video Reasoning \
+- HVCR: Causal Evaluation of Large Vision-Language Models in Human-like Video Reasoning \
   **Yanxi Zhang**, Junjie Li, Dongyan Zhao\*, Chaochao Lu\* \
-  Preprint
+  Work in Progress
 
-- HCR-Reasoner: Synergizing LLMs and Theory for Human-like Causal Reasoning \
+- HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning \
   **Yanxi Zhang**, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
   Preprint [[Paper](https://arxiv.org/abs/2505.08750)] [[Code](https://github.com/zhangyx0417/ac_reason)] [[Data](https://huggingface.co/datasets/zhangyx2001/AC-Bench)]
 
