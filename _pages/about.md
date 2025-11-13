@@ -28,13 +28,13 @@ redirect_from:
 
 # 📝 Research Papers
 
-- HVCR: Consensus-Driven Causal Evaluation of Large Vision-Language Models in Human-like Video Reasoning \
+- HVCR: Consensus-Driven Evaluation of Large Vision-Language Models in Human-like Video Causal Reasoning \
   **Yanxi Zhang**, Junjie Li, Dongyan Zhao\*, Chaochao Lu\* \
   Work in Progress
 
 - HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning \
   **Yanxi Zhang**, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
-  To present at [PersonaLLM Workshop @ NeurIPS 2025](https://personallmworkshop.github.io/) [[Paper](https://arxiv.org/abs/2505.08750)] [[Code](https://github.com/zhangyx0417/ac_reason)] [[Data](https://huggingface.co/datasets/zhangyx2001/AC-Bench)]
+  PersonaLLM Workshop @ NeurIPS 2025 [[Paper](https://arxiv.org/abs/2505.08750)] [[Code](https://github.com/zhangyx0417/ac_reason)] [[Data](https://huggingface.co/datasets/zhangyx2001/AC-Bench)]
 
 - From Simple to Complex: A Progressive Framework for Document-level Informative Argument Extraction \
   Quzhe Huang^, **Yanxi Zhang**^, Dongyan Zhao\* \
@@ -43,7 +43,7 @@ redirect_from:
 ^ Equal Contribution \* Corresponding Author
 
 # 📚 Academic Services
-- *Reviewer*, IJCAI 2025, NeurIPS 2025.
+- *Reviewer*, NeurIPS 2025, IJCAI 2025.
 
 
 # 📐 Teaching Experiences
