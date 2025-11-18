@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-😎 Hi! I'm Yanxi Zhang (张雁熙). My english name is Michael, which I have been using it for over ten years! 
+😎 Hi! I'm **Yanxi Zhang** (张雁熙). My english name is Michael, which I have been using it for over ten years! 
 
 🌱 I am a final-year M.S. student at [Wangxuan Institute for Computer Technology, Peking University](https://www.icst.pku.edu.cn/), advised by [Prof. Dongyan Zhao](https://www.wict.pku.edu.cn/zhaodongyan/en/). I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Dr. Chaochao Lu](https://causallu.com/). Before that, I received the B.Eng. degree from [School of Big Data and Software Engineering, Chongqing University](http://www.cse.cqu.edu.cn/) in 2023.
 
@@ -28,16 +28,16 @@ redirect_from:
 
 # 📝 Research Papers
 
-- HVCR: Consensus-Driven Evaluation of Large Vision-Language Models in Human-like Video Causal Reasoning \
-  **Yanxi Zhang**, Junjie Li, Dongyan Zhao\*, Chaochao Lu\* \
+- **HVCR: Consensus-Driven Evaluation of Large Vision-Language Models in Human-like Video Causal Reasoning** \
+  ***Yanxi Zhang***, Junjie Li, Dongyan Zhao\*, Chaochao Lu\* \
   Work in Progress
 
-- HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning \
-  **Yanxi Zhang**, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
+- **HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning** \
+  ***Yanxi Zhang***, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
   PersonaLLM Workshop @ NeurIPS 2025 [[Paper](https://arxiv.org/abs/2505.08750)] [[Code](https://github.com/zhangyx0417/ac_reason)] [[Data](https://huggingface.co/datasets/zhangyx2001/AC-Bench)]
 
-- From Simple to Complex: A Progressive Framework for Document-level Informative Argument Extraction \
-  Quzhe Huang^, **Yanxi Zhang**^, Dongyan Zhao\* \
+- **From Simple to Complex: A Progressive Framework for Document-level Informative Argument Extraction** \
+  Quzhe Huang^, ***Yanxi Zhang***^, Dongyan Zhao\* \
   EMNLP 2023 Findings [[Paper](https://aclanthology.org/2023.findings-emnlp.408/)] [[Code](https://github.com/zhangyx0417/simple_to_complex)]
 
 ^ Equal Contribution \* Corresponding Author
@@ -64,4 +64,4 @@ redirect_from:
 
 
 # 💻 Internships
-- *2025.04 - 2026.04*, Shanghai AI Laboratory, advised by Dr. Chaochao Lu.
+- *2025.04 - 2026.04*, Shanghai AI Laboratory, advised by [Dr. Chaochao Lu](https://causallu.com/).
