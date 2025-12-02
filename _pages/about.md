@@ -30,7 +30,7 @@ redirect_from:
 
 - **CauSight: Learning to Supersense for Visual Causal Discovery** \
   Yize Zhang, Meiqi Chen, Sirui Chen, Bo Peng, ***Yanxi Zhang***, Tianyu Li, Chaochao Lu\* \
-  Under Review
+  Under Review [[Paper](https://arxiv.org/abs/2512.01827)] [[GitHub](https://github.com/OpenCausaLab/CauSight)]
 
 - **HVCR: Consensus-Driven Evaluation of Large Vision-Language Models in Human-like Video Causal Reasoning** \
   ***Yanxi Zhang***, Junjie Li, Dongyan Zhao\*, Chaochao Lu\* \
@@ -38,11 +38,11 @@ redirect_from:
 
 - **HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning** \
   ***Yanxi Zhang***, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
-  PersonaLLM Workshop @ NeurIPS 2025 [[Paper](https://arxiv.org/abs/2505.08750)] [[Code](https://github.com/zhangyx0417/ac_reason)] [[Data](https://huggingface.co/datasets/zhangyx2001/AC-Bench)]
+  PersonaLLM Workshop @ NeurIPS 2025 [[Paper](https://arxiv.org/abs/2505.08750)] [[GitHub](https://github.com/zhangyx0417/ac_reason)]
 
 - **From Simple to Complex: A Progressive Framework for Document-level Informative Argument Extraction** \
   Quzhe Huang^, ***Yanxi Zhang***^, Dongyan Zhao\* \
-  EMNLP 2023 Findings [[Paper](https://aclanthology.org/2023.findings-emnlp.408/)] [[Code](https://github.com/zhangyx0417/simple_to_complex)]
+  EMNLP 2023 Findings [[Paper](https://aclanthology.org/2023.findings-emnlp.408/)] [[GitHub](https://github.com/zhangyx0417/simple_to_complex)]
 
 ^ Equal Contribution \* Corresponding Author
 
