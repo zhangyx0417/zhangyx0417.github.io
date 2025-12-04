@@ -38,7 +38,7 @@ redirect_from:
 
 - **HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning** \
   ***Yanxi Zhang***, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
-  PersonaLLM Workshop @ NeurIPS 2025 [[Paper](https://arxiv.org/abs/2505.08750)] [[GitHub](https://github.com/zhangyx0417/ac_reason)]
+  Under Review, PersonaLLM Workshop @ NeurIPS 2025 [[Paper](https://arxiv.org/abs/2505.08750)] [[GitHub](https://github.com/zhangyx0417/ac_reason)]
 
 - **From Simple to Complex: A Progressive Framework for Document-level Informative Argument Extraction** \
   Quzhe Huang^, ***Yanxi Zhang***^, Dongyan Zhao\* \
