@@ -28,13 +28,13 @@ redirect_from:
 
 # 📝 Research Papers
 
-- **CauSight: Learning to Supersense for Visual Causal Discovery** \
-  Yize Zhang^, Meiqi Chen^, Sirui Chen^, Bo Peng^, ***Yanxi Zhang***, Tianyu Li, Chaochao Lu\* \
-  Under Review [[Paper](https://arxiv.org/abs/2512.01827)] [[GitHub](https://github.com/OpenCausaLab/CauSight)]
-
 - **HVCR: Consensus-Driven Evaluation of Large Vision-Language Models in Human-like Video Causal Reasoning** \
   ***Yanxi Zhang***, Junjie Li, Dongyan Zhao\*, Chaochao Lu\* \
   Under Review
+
+- **CauSight: Learning to Supersense for Visual Causal Discovery** \
+  Yize Zhang^, Meiqi Chen^, Sirui Chen^, Bo Peng^, ***Yanxi Zhang***, Tianyu Li, Chaochao Lu\* \
+  Under Review [[Paper](https://arxiv.org/abs/2512.01827)] [[GitHub](https://github.com/OpenCausaLab/CauSight)]
 
 - **HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning** \
   ***Yanxi Zhang***, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
