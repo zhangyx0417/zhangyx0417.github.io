@@ -19,9 +19,14 @@ redirect_from:
 
 😎 Hi! I'm **Yanxi Zhang** (张雁熙). My english name is Michael, which I have been using it for over ten years! 
 
-🌱 I am a final-year M.S. student at [Wangxuan Institute for Computer Technology, Peking University](https://www.icst.pku.edu.cn/), advised by [Prof. Dongyan Zhao](https://www.wict.pku.edu.cn/zhaodongyan/en/). I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Dr. Chaochao Lu](https://causallu.com/). Before that, I received the B.Eng. degree from [School of Big Data and Software Engineering, Chongqing University](http://www.cse.cqu.edu.cn/) in 2023.
+🌱 I am a third-year M.S. student at [Wangxuan Institute for Computer Technology, Peking University](https://www.icst.pku.edu.cn/), advised by [Prof. Dongyan Zhao](https://www.wict.pku.edu.cn/zhaodongyan/en/). I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Dr. Chaochao Lu](https://causallu.com/). Before that, I received the B.Eng. degree from [School of Big Data and Software Engineering, Chongqing University](http://www.cse.cqu.edu.cn/) in 2023.
 
-🍃 I am currently focusing on **causal reasoning in large models**, especially in enhancing and evaluating their causal reasoning capabilities. I am also interested in information extraction, e.g., understanding the relationships between events in documents.
+🍃 I am currently focusing on **(human-like) causal reasoning and its applications** in the era of large models and multimodality. Here are some core problems I'm thinking about:
+
+- In vision-language contexts, how to (uniformly) represent causal relationships and define causes? How to align existing systems with human causal cognition?
+- How to apply the idea of causal reasoning to frontier vision-language-based domains, such as embodied intelligence & robotis, (causal) world models, and AI4Science?
+
+Previously, I have also focused on **information extraction**, e.g., understanding the relationships between events in documents.
 
 ✉️ Feel free to contact me via email! You can download my [CV](https://drive.google.com/file/d/1smeUclYYTFT4OGDi5tAEzFDT5Hn70ZE8/view?usp=sharing) here.
 
@@ -36,7 +41,7 @@ redirect_from:
   Yize Zhang^, Meiqi Chen^, Sirui Chen^, Bo Peng^, ***Yanxi Zhang***, Tianyu Li, Chaochao Lu\* \
   Under Review [[Paper](https://arxiv.org/abs/2512.01827)] [[GitHub](https://github.com/OpenCausaLab/CauSight)]
 
-- **HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning** \
+- **Synergizing Large Language Models and Theory for Human-like Causal Reasoning** \
   ***Yanxi Zhang***, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
   Under Review, PersonaLLM Workshop @ NeurIPS 2025 [[Paper](https://arxiv.org/abs/2505.08750)] [[GitHub](https://github.com/zhangyx0417/ac_reason)]
 
@@ -47,7 +52,7 @@ redirect_from:
 ^ Equal Contribution \* Corresponding Author
 
 # 📚 Academic Services
-- *Reviewer*, NeurIPS 2025, IJCAI 2025.
+- *Reviewer*, CVPR 2026, NeurIPS 2025, IJCAI 2025.
 
 
 # 📐 Teaching Experiences
