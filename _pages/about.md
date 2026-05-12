@@ -33,7 +33,7 @@ Previously, I have also focused on **information extraction**, e.g., understandi
 
 # 📝 Research Papers
 
-- **HVCR: Consensus-Driven Evaluation of Large Vision-Language Models in Human-like Video Causal Reasoning** \
+- **HVCR: Human-like Causal Reasoning in Videos** \
   ***Yanxi Zhang***, Junjie Li, Dongyan Zhao\*, Chaochao Lu\* \
   Under Review
 
@@ -52,7 +52,7 @@ Previously, I have also focused on **information extraction**, e.g., understandi
 ^ Equal Contribution \* Corresponding Author
 
 # 📚 Academic Services
-- *Reviewer*, CVPR 2026, NeurIPS 2025, IJCAI 2025.
+- *Reviewer*, ECCV 2026, CVPR 2026, NeurIPS 2025, IJCAI 2025.
 
 
 # 📐 Teaching Experiences
