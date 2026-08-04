@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-😎 Hi! I'm **Yanxi Zhang** (张雁熙). My english name is Michael, which I have been using it for over ten years! 
+😎 Hi! I'm **Yanxi Zhang** (张雁熙). You may also call me Michael!
 
-🌱 I am a third-year M.S. student at [Wangxuan Institute for Computer Technology, Peking University](https://www.icst.pku.edu.cn/), advised by [Prof. Dongyan Zhao](https://www.wict.pku.edu.cn/zhaodongyan/en/). I am also a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Dr. Chaochao Lu](https://causallu.com/). Before that, I received the B.Eng. degree from [School of Big Data and Software Engineering, Chongqing University](http://www.cse.cqu.edu.cn/) in 2023.
+🌱 I am an incoming Ph.D. student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), advised by [Dr. Chaochao Lu](https://causallu.com/). I received my M.Sc. degree from [Peking University](https://english.pku.edu.cn/) in 2026 and my B.Eng. degree from [Chongqing University](https://english.cqu.edu.cn/) in 2023.
 
 🍃 I am currently focusing on **(human-like) causal reasoning and its applications** in the era of large models and multimodality. Here are some core problems I'm thinking about:
 
@@ -28,7 +28,7 @@ redirect_from:
 
 Previously, I have also focused on **information extraction**, e.g., understanding the relationships between events in documents.
 
-✉️ Feel free to contact me via email! You can download my [CV](https://drive.google.com/file/d/1smeUclYYTFT4OGDi5tAEzFDT5Hn70ZE8/view?usp=sharing) here.
+✉️ Feel free to contact me via email! *I am not available for internship opportunities at present, so kindly skip internship-related inquiries.*
 
 
 # 📝 Research Papers
@@ -61,7 +61,8 @@ Previously, I have also focused on **information extraction**, e.g., understandi
 
 
 # 📖 Educations
-- *2023.09 - 2026.06*, M.S. in Data Science, Peking University (PKU).
+- *2026.09 - 2030.06 (Expected)*, Ph.D. in Electronic Information, Shanghai Jiao Tong University (SJTU).
+- *2023.09 - 2026.06*, M.Sc. in Data Science, Peking University (PKU).
 - *2019.09 - 2023.06*, B.Eng. in Data Science and Big Data Technology, Chongqing University (CQU).
 
 
@@ -73,4 +74,4 @@ Previously, I have also focused on **information extraction**, e.g., understandi
 
 
 # 💻 Internships
-- *2025.04 - 2026.04*, Shanghai AI Laboratory, advised by [Dr. Chaochao Lu](https://causallu.com/).
+- *2025.04 - 2026.09*, Shanghai AI Laboratory, advised by [Dr. Chaochao Lu](https://causallu.com/).
