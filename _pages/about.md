@@ -19,7 +19,7 @@ redirect_from:
 
 😎 Hi! I'm **Yanxi Zhang** (张雁熙). You may also call me Michael!
 
-🌱 I am an incoming Ph.D. student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), advised by [Dr. Chaochao Lu](https://causallu.com/). I received my M.Sc. degree from [Peking University](https://english.pku.edu.cn/) in 2026 and my B.Eng. degree from [Chongqing University](https://english.cqu.edu.cn/) in 2023.
+🌱 I am a first-year Ph.D. student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), advised by [Dr. Chaochao Lu](https://causallu.com/). I received my M.Sc. degree from [Peking University](https://english.pku.edu.cn/) in 2026 and my B.Eng. degree from [Chongqing University](https://english.cqu.edu.cn/) in 2023.
 
 🍃 I am currently focusing on **(human-like) causal reasoning and its applications** in the era of large models and multimodality. Here are some core problems I'm thinking about:
 
