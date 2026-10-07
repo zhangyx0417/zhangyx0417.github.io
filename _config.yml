@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanxi Zhang"
   avatar           : "images/person-512x512.png"
-  bio              : "Shanghai AI Laboratory \\ Shanghai Jiao Tong University"
+  bio              : "Shanghai AI Laboratory"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
