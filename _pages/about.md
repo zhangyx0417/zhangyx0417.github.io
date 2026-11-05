@@ -39,11 +39,11 @@ Previously, I have also focused on **information extraction**, e.g., understandi
 
 - **Synergizing Large Language Models and Theory for Human-like Causal Reasoning** \
   ***Yanxi Zhang***, Xin Cong, Zhong Zhang\*, Xiao Liu, Dongyan Zhao\* \
-  AACL-IJCNLP 2026 Main, PersonaLLM Workshop @ NeurIPS 2025 [[Paper](https://arxiv.org/abs/2505.08750)] [[GitHub](https://github.com/zhangyx0417/ac_reason)]
+  AACL-IJCNLP 2026 Main, PersonaLLM Workshop @ NeurIPS 2025 [[Paper](https://aclanthology.org/2026.aacl-long.159/)] [[GitHub](https://github.com/zhangyx0417/ac_reason)]
 
 - **CauSight: Learning to Supersense for Visual Causal Discovery** \
   Yize Zhang^, Meiqi Chen^, Sirui Chen^, Bo Peng^, ***Yanxi Zhang***, Tianyu Li, Chaochao Lu\* \
-  EMNLP 2026 Main [[Paper](https://arxiv.org/abs/2512.01827)] [[GitHub](https://github.com/OpenCausaLab/CauSight)]
+  EMNLP 2026 Main [[Paper](https://aclanthology.org/2026.emnlp-main.1824/)] [[GitHub](https://github.com/OpenCausaLab/CauSight)]
 
 - **From Simple to Complex: A Progressive Framework for Document-level Informative Argument Extraction** \
   Quzhe Huang^, ***Yanxi Zhang***^, Dongyan Zhao\* \
